@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi I'm 🙂 Anubhav
 
-<!--
-**anubhavrajoria/AnubhavRajoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ` CLOUD ENGINEER `
+<!-- **`CLOUD ENGINEER, HCLTech 🏢`** -->
 
-Here are some ideas to get you started:
+I am in IT for almost 2 years, working as a Cloud Engineer with a specialization in Google Cloud Platform concurrently learning DevOps and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in India
+* ⚡  Undergrad at BITS PILANI
+* 🚀  Currently working in [HCLTech](http://https://www.hcltech.com/)
+* 🧠  Learning DevOps & Python
+* 🖥️  See my portfolio at [anubhavrajoria.in](http://anubhavrajoria.in)
+* ✉️  You can contact me at [contactme@anubhavrajoria.in](mailto:contactme@anubhavrajoria.in)
